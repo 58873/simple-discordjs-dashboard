@@ -1,5 +1,5 @@
 module.exports = {
-  "token": "NjA3NTM4NTk0NjQ2NzIwNTIy.XUbEaA.6NJOb4h7hqhETLGI8wK_8ykzlsA", // https://discordapp.com/developers/applications/ID/bot
+  "token": "NjA3NTM4NTk0NjQ2NzIwNTIy.XUbEaA.6NJOb4h7hqhETLGI8wK_8ykzls", // https://discordapp.com/developers/applications/ID/bot
   "mongodbUrl": "mongodb+srv://666:<password>@cluster0.ygest.mongodb.net/<dbname>?retryWrites=true&w=majority", // Mongodb connection url.
   "id": "607538594646720522", // https://discordapp.com/developers/applications/ID/information
   "clientSecret": "ioxjiSonGTKUBiknAIjGuDkiGFaBf3nt", // https://discordapp.com/developers/applications/ID/information
