@@ -1,8 +1,8 @@
 module.exports = {
-  "token": "TOKEN", // https://discordapp.com/developers/applications/ID/bot
-  "mongodbUrl": "MONGODB_URL", // Mongodb connection url.
-  "id": "CLIENT_ID", // https://discordapp.com/developers/applications/ID/information
-  "clientSecret": "CLIENT_SECRET", // https://discordapp.com/developers/applications/ID/information
+  "token": "NjA3NTM4NTk0NjQ2NzIwNTIy.XUbEaA.6NJOb4h7hqhETLGI8wK_8ykzlsA", // https://discordapp.com/developers/applications/ID/bot
+  "mongodbUrl": "mongodb+srv://666:<password>@cluster0.ygest.mongodb.net/<dbname>?retryWrites=true&w=majority", // Mongodb connection url.
+  "id": "607538594646720522", // https://discordapp.com/developers/applications/ID/information
+  "clientSecret": "ioxjiSonGTKUBiknAIjGuDkiGFaBf3nt", // https://discordapp.com/developers/applications/ID/information
   "domain": "http://localhost",
   "port": 8080
 };
